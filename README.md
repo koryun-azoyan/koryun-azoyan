@@ -1,15 +1,15 @@
 <h1 align="center">Hello, I'm Koryun Azoyan</h1>
 <h3 align="center">Full-Stack Web Developer | PHP(Laravel, Symfony, Codeigniter, Yii, CakePHP), Ruby on Rails, Vue & React Expert | 9+ Years Experience</h3>
 
-- 👯 I’m looking to collaborate on **PHP, MVC(Laravel, CodeIgniter, Symfony, CakePHP, Yii), Vue, React** project
+- I’m looking to collaborate on **PHP, MVC(Laravel, CodeIgniter, Symfony, CakePHP, Yii), Vue, React** project
 
-- 👨‍💻 All of my projects are available at [https://koryun-azoyan.github.io/](https://koryun-azoyan.github.io/)
+- All of my projects are available at [https://koryun-azoyan.github.io/](https://koryun-azoyan.github.io/)
 
-- 💬 Ask me about **PHP, Laravel, Codeigniter, Symfony, CakePHP, Vue, React**
+- Ask me about **PHP, Laravel, Codeigniter, Symfony, CakePHP, Vue, React**
 
-- 📫 How to reach me **azoyan@rescode.am**
+- How to reach me **azoyan@rescode.am**
 
-- 📄 Know about my experiences [https://koryun-azoyan.github.io/](https://koryun-azoyan.github.io/)
+- Know about my experiences [https://koryun-azoyan.github.io/](https://koryun-azoyan.github.io/)
 
 
 
